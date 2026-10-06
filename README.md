@@ -484,13 +484,11 @@ I'm always interested in collaborating on:
 
 <a href="https://github.com/rickchoudhary115">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://www.linkedin.com/">
+</a><a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+ 
+
 
 </div>
 
@@ -501,13 +499,16 @@ I'm always interested in collaborating on:
 ### 💻 Keep Building. Keep Learning. Keep Shipping. 🚀
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=rickchoudhary115&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=rickchoudhary115&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 <br/><br/>
 
-###  Kivo AI
-
-**Created & Developed by Anirban Choudhury**
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rickchoudhary115/MULTIAGENT_AI_SYSTEM/main/frontend/src/assets/kivo-raccoon.svg"
+    width="65"
+    alt="Kivo AI Raccoon Logo" />
+  <h3 align="center">Kivo AI</h3>
+</p>
+<p align="center">
+  <strong>Created & Developed with ❤️ by Anirban Choudhury</strong>
+</p>
