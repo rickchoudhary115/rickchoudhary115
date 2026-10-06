@@ -256,7 +256,7 @@ Development
 
 <td width="33%" valign="top">
 
-## 🦝 Kivo AI
+##  Kivo AI
 
 **Multi-Agent AI Platform**
 
@@ -506,7 +506,7 @@ I'm always interested in collaborating on:
 
 <br/><br/>
 
-### 🦝 Kivo AI
+###  Kivo AI
 
 **Created & Developed by Anirban Choudhury**
 
