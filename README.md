@@ -73,16 +73,22 @@ Development
 ---
 
 # 🚀 What I'm Building
-
-## 🦝 Kivo AI
-
+<h1 align="center" style="margin-top: 0; margin-bottom: 0;">
+  <img
+    src="https://raw.githubusercontent.com/rickchoudhary115/MULTIAGENT_AI_SYSTEM/main/frontend/src/assets/kivo-raccoon.svg"
+    width="45"
+    alt="Kivo AI Raccoon Logo"
+  />
+  Kivo AI
+</h1>
 <div align="center">
+
 
 ### **A Full-Stack Multi-Agent AI Platform**
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td align="center">💬<br><b>AI Chat</b></td>
 <td align="center">🔎<br><b>Web Search</b></td>
