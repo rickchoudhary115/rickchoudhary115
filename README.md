@@ -347,23 +347,7 @@ Express • MongoDB
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">✨<br><b>Generative AI</b></td>
-<td>→</td>
-<td align="center">🧠<br><b>LLMs</b></td>
-<td>→</td>
-<td align="center">🔎<br><b>RAG</b></td>
-<td>→</td>
-<td align="center">🤖<br><b>AI Agents</b></td>
-<td>→</td>
-<td align="center">🔗<br><b>Multi-Agent</b></td>
-<td>→</td>
-<td align="center">⚙️<br><b>MLOps</b></td>
-<td>→</td>
-<td align="center">🚀<br><b>Production AI</b></td>
-</tr>
-</table>
+✨ **Generative AI** → 🧠 **LLMs** → 🔎 **RAG** → 🤖 **AI Agents** → 🔗 **Multi-Agent** → ⚙️ **MLOps** → 🚀 **Production AI**
 
 </div>
 
@@ -371,27 +355,20 @@ Express • MongoDB
 
 # 📈 GitHub Stats
 
+<!--
+  Responsive: no table and no fixed height. Each card keeps its natural width,
+  sits side by side on wide screens and wraps onto its own line on phones.
+  GitHub also caps images at 100% of the container width.
+-->
+
 <div align="center">
 
-<table>
-<tr>
+<img src="https://github-readme-stats.vercel.app/api?username=rickchoudhary115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickchoudhary115&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<td>
+<br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rickchoudhary115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</td>
-
-<td>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickchoudhary115&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=rickchoudhary115&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=rickchoudhary115&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
@@ -444,23 +421,7 @@ Express • MongoDB
 
 <br/>
 
-<table>
-<tr>
-<td align="center">📚<br><b>Learn</b></td>
-<td>→</td>
-<td align="center">🔨<br><b>Build</b></td>
-<td>→</td>
-<td align="center">💥<br><b>Break</b></td>
-<td>→</td>
-<td align="center">🐛<br><b>Debug</b></td>
-<td>→</td>
-<td align="center">⚡<br><b>Improve</b></td>
-<td>→</td>
-<td align="center">🚀<br><b>Deploy</b></td>
-<td>→</td>
-<td align="center">🔁<br><b>Repeat</b></td>
-</tr>
-</table>
+📚 **Learn** → 🔨 **Build** → 💥 **Break** → 🐛 **Debug** → ⚡ **Improve** → 🚀 **Deploy** → 🔁 **Repeat**
 
 </div>
 
@@ -493,8 +454,6 @@ I'm always interested in collaborating on:
 </a><a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
- 
-
 
 </div>
 
@@ -508,13 +467,13 @@ I'm always interested in collaborating on:
 <img src="https://komarev.com/ghpvc/?username=rickchoudhary115&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 <br/><br/>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rickchoudhary115/MULTIAGENT_AI_SYSTEM/main/frontend/src/assets/kivo-raccoon.svg"
-    width="65"
-    alt="Kivo AI Raccoon Logo" />
-  <h3 align="center">Kivo AI</h3>
-</p>
-<p align="center">
-  <strong>Created & Developed with ❤️ by Anirban Choudhury</strong>
-</p>
+<img
+  src="https://raw.githubusercontent.com/rickchoudhary115/MULTIAGENT_AI_SYSTEM/main/frontend/src/assets/kivo-raccoon.svg"
+  width="65"
+  alt="Kivo AI Raccoon Logo" />
+
+### Kivo AI
+
+**Created & Developed with ❤️ by Anirban Choudhury**
+
+</div>
