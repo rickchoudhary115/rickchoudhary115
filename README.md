@@ -4,7 +4,7 @@
 
 ### 🤖 AI/ML Engineer • Full-Stack Developer • GenAI Enthusiast
 
-<img src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="296" height="222" alt="Programmer coding animation"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding animation"/>
 
 <br/>
 
@@ -13,12 +13,14 @@
 <br/>
 
 <a href="https://github.com/rickchoudhary115">
-<img src="https://img.shields.io/badge/GitHub-rickchoudhary115-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-rickchoudhary115-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/anirban-choudhury-147121325/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=rickchoudhary115&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -26,27 +28,25 @@
 
 ## 🧑‍💻 About Me
 
+I'm an **AI/ML student and developer** who loves turning ideas into practical, production-minded AI products. I work at the intersection of **AI agents, LLM apps, and full-stack engineering**, and my goal is to grow into a **production-focused AI Engineer** by shipping real systems.
+
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-I'm **Anirban Choudhury**, an AI/ML student and developer passionate about building practical AI-powered products.
+### 🔭 Right now
 
-I enjoy working at the intersection of:
+- 🚀 Building **Kivo AI**, a multi-agent AI platform
+- 🧠 Going deeper into **Generative AI, RAG and AI agents**
+- ⚙️ Learning **MLOps** and production deployment
+- 🧩 Practicing **DSA** on LeetCode
 
-🤖 Artificial Intelligence
-🧠 Machine Learning & Deep Learning
-✨ Generative AI & LLMs
-🌐 Full-Stack Development
-🔗 AI Agents & Multi-Agent Systems
-☁️ Cloud & Deployment
-📊 Data & Intelligent Automation
+### 💬 Ask me about
 
-Currently focused on becoming a **production-focused AI Engineer** by building real-world systems.
+`AI Agents` · `LangGraph` · `RAG` · `React` · `Node.js` · `Machine Learning`
 
 </td>
-
-<td width="40%">
+<td width="45%" valign="top">
 
 ```text
 AI / ML
@@ -58,12 +58,8 @@ AI / ML
 └── AI Agents
 
 Development
-├── Python
-├── C++
-├── JavaScript
-├── React
-├── Node.js
-└── Express
+├── Python · C++ · JavaScript
+└── React · Node.js · Express
 ```
 
 </td>
@@ -72,19 +68,18 @@ Development
 
 ---
 
-# 🚀 What I'm Building
-<h1 align="center" style="margin-top: 0; margin-bottom: 0;">
-  <img
-    src="https://raw.githubusercontent.com/rickchoudhary115/MULTIAGENT_AI_SYSTEM/main/frontend/src/assets/kivo-raccoon.svg"
-    width="45"
-    alt="Kivo AI Raccoon Logo"
-  />
+## 🚀 What I'm Building
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/rickchoudhary115/MULTIAGENT_AI_SYSTEM/main/frontend/src/assets/kivo-raccoon.svg" width="45" alt="Kivo AI Raccoon Logo"/>
   Kivo AI
 </h1>
+
 <div align="center">
 
+### A Full-Stack Multi-Agent AI Platform
 
-### **A Full-Stack Multi-Agent AI Platform**
+[![Repo](https://img.shields.io/badge/View%20Repo-MULTIAGENT__AI__SYSTEM-7B2FF7?style=for-the-badge&logo=github)](https://github.com/rickchoudhary115/MULTIAGENT_AI_SYSTEM)
 
 </div>
 
@@ -96,7 +91,6 @@ Development
 <td align="center">📄<br><b>PDF Agent</b></td>
 <td align="center">📊<br><b>PPT Agent</b></td>
 </tr>
-
 <tr>
 <td align="center">👁️<br><b>Vision</b></td>
 <td align="center">🧠<br><b>RAG</b></td>
@@ -104,9 +98,8 @@ Development
 <td align="center">📦<br><b>Artifacts</b></td>
 <td align="center">💳<br><b>Billing</b></td>
 </tr>
-
 <tr>
-<td align="center">🔐<br><b>Authentication</b></td>
+<td align="center">🔐<br><b>Auth</b></td>
 <td align="center">⚡<br><b>Redis Memory</b></td>
 <td align="center">🤖<br><b>LLM Routing</b></td>
 <td align="center">☁️<br><b>Cloud Ready</b></td>
@@ -116,47 +109,23 @@ Development
 
 ### 🏗️ Kivo Architecture
 
-<div align="center">
-
-```text
-                         ┌──────────────────────┐
-                         │     🦝 KIVO AI       │
-                         │   React + Vite UI    │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │       Gateway        │
-                         │   Express / Proxy    │
-                         └──────────┬───────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              │                     │                     │
-              ▼                     ▼                     ▼
-       ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
-       │    AUTH     │       │    CHAT     │       │    AGENT    │
-       │  Firebase   │       │   Service   │       │  LangGraph  │
-       └─────────────┘       └─────────────┘       └──────┬──────┘
-                                                         │
-                 ┌───────────────────────────────────────┼──────────────────┐
-                 │             │             │            │                  │
-                 ▼             ▼             ▼            ▼                  ▼
-             💻 Coding     🔎 Search      📄 PDF       📊 PPT             👁️ Vision
-                 │             │             │            │                  │
-                 └─────────────┴─────────────┴────────────┴──────────────────┘
-                                                         │
-                                                         ▼
-                                                ┌─────────────────┐
-                                                │    LLM Layer    │
-                                                │  Groq / Gemini  │
-                                                └─────────────────┘
+```mermaid
+flowchart TD
+    UI["🦝 Kivo AI<br/>React + Vite UI"] --> GW["Gateway<br/>Express / Proxy"]
+    GW --> AUTH["🔐 Auth<br/>Firebase"]
+    GW --> CHAT["💬 Chat Service"]
+    GW --> AGENT["🤖 Agent<br/>LangGraph"]
+    AGENT --> CODE["💻 Coding"]
+    AGENT --> SEARCH["🔎 Search"]
+    AGENT --> PDF["📄 PDF"]
+    AGENT --> PPT["📊 PPT"]
+    AGENT --> VIS["👁️ Vision"]
+    CODE & SEARCH & PDF & PPT & VIS --> LLM["🧠 LLM Layer<br/>Groq / Gemini"]
 ```
-
-</div>
 
 ---
 
-# 🧠 AI / ML Skills
+## 🧠 AI / ML Skills
 
 <table>
 <tr>
@@ -165,16 +134,14 @@ Development
 
 ### 🤖 Machine Learning
 
-* Supervised Learning
-* Unsupervised Learning
-* Regression
-* Classification
-* Ensemble Learning
-* Feature Engineering
-* Model Evaluation
-* Data Preprocessing
-* SMOTE / SMOTEENN
-* Scikit-learn
+- Supervised / Unsupervised
+- Regression & Classification
+- Ensemble Learning
+- Feature Engineering
+- Model Evaluation
+- Data Preprocessing
+- SMOTE / SMOTEENN
+- Scikit-learn
 
 </td>
 
@@ -182,13 +149,12 @@ Development
 
 ### 🧠 Deep Learning
 
-* Neural Networks
-* CNN
-* RNN
-* LSTM
-* Model Training
-* Model Evaluation
-* Deep Learning Fundamentals
+- Neural Networks
+- CNN
+- RNN
+- LSTM
+- Model Training
+- Model Evaluation
 
 </td>
 
@@ -196,14 +162,13 @@ Development
 
 ### 📝 NLP
 
-* Text Processing
-* Tokenization
-* Embeddings
-* Text Classification
-* Semantic Search
-* Transformers
-* LLM Applications
-* RAG
+- Text Processing
+- Tokenization
+- Embeddings
+- Text Classification
+- Semantic Search
+- Transformers
+- LLM Applications
 
 </td>
 
@@ -211,14 +176,14 @@ Development
 
 ### ✨ Generative AI
 
-* LLMs
-* Prompt Engineering
-* AI Agents
-* Multi-Agent Systems
-* LangGraph
-* RAG
-* Tool Calling
-* Structured Outputs
+- LLMs
+- Prompt Engineering
+- AI Agents
+- Multi-Agent Systems
+- LangGraph
+- RAG
+- Tool Calling
+- Structured Outputs
 
 </td>
 
@@ -227,114 +192,98 @@ Development
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript" alt="Languages"/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="Frontend"/>
 
-### Frontend
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend"/>
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+**Database & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,redis,docker,aws,firebase" alt="Database and cloud"/>
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
-
-### Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,redis,docker,aws,firebase" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/>
 
 </div>
 
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-##  Kivo AI
-
+### 🦝 [Kivo AI](https://github.com/rickchoudhary115/MULTIAGENT_AI_SYSTEM)
 **Multi-Agent AI Platform**
 
-A full-stack AI assistant with multiple specialized agents.
+A full-stack AI assistant with specialized agents for chat, search, coding, PDFs, slides and vision.
 
-**Stack**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-React • Node.js • Express
-LangGraph • MongoDB • Redis
-Firebase • Groq • Gemini
-
-**Features**
-
-💬 AI Chat
-💻 Coding Agent
-🔎 Web Search
-📄 PDF Agent
-📊 PPT Agent
-👁️ Vision Agent
-🧠 RAG
-💳 Billing
+💬 Chat · 💻 Coding · 🔎 Search · 📄 PDF · 📊 PPT · 👁️ Vision · 🧠 RAG · 💳 Billing
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-## 🛂 US Visa Prediction
+### 🧞 [Genie AI Builder Workspace](https://github.com/rickchoudhary115/Genie_Ai_Builder_Workspace)
+**AI Agent Builder**
 
+A workspace for creating, managing and integrating AI agents, with a React 19 UI and an Express 5 + MongoDB backend.
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+🤖 Agents · 🔌 Integrations · 🔐 Auth · 🧠 Redux
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛂 US Visa Prediction
 **Machine Learning Application**
 
-ML system for predicting visa approval outcomes.
+An ML system that predicts visa approval outcomes, served through an API.
 
-**Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-Python • Scikit-learn
-CatBoost • XGBoost
-FastAPI • MongoDB
-
-**Concepts**
-
-Feature Engineering
-Data Preprocessing
-Encoding
-Power Transformation
-SMOTEENN
-ML Pipelines
-Model Serialization
-API Deployment
+🧪 Feature Engineering · ⚖️ SMOTEENN · 🔄 ML Pipelines · 🚀 API Deployment
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-## 📚 Library Management
-
+### 📚 Library Management
 **Full-Stack Management System**
 
-Platform for managing books, members and transactions.
+A platform for managing books, members and transactions.
 
-**Stack**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-React • Node.js
-Express • MongoDB
-
-**Features**
-
-📖 Book Management
-👤 Members
-🔐 Authentication
-📚 Issue / Return
-💰 Fine Calculation
-🛡️ Admin Dashboard
+📖 Books · 👤 Members · 🔐 Auth · 📚 Issue/Return · 💰 Fines · 🛡️ Admin
 
 </td>
 
@@ -343,7 +292,7 @@ Express • MongoDB
 
 ---
 
-# 🧩 Currently Learning
+## 🧩 Learning Roadmap
 
 <div align="center">
 
@@ -353,13 +302,7 @@ Express • MongoDB
 
 ---
 
-# 📈 GitHub Stats
-
-<!--
-  Responsive: no table and no fixed height. Each card keeps its natural width,
-  sits side by side on wide screens and wraps onto its own line on phones.
-  GitHub also caps images at 100% of the container width.
--->
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -374,7 +317,7 @@ Express • MongoDB
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 <table>
 <tr>
@@ -383,14 +326,14 @@ Express • MongoDB
 
 ### ✅ Completed
 
-* [x] Full-Stack Applications
-* [x] Machine Learning Projects
-* [x] Deep Learning
-* [x] NLP
-* [x] AI-Powered Applications
-* [x] Multi-Agent AI System
-* [x] RAG
-* [x] AI Agents
+- [x] Full-stack applications
+- [x] Machine learning projects
+- [x] Deep learning
+- [x] NLP
+- [x] AI-powered applications
+- [x] Multi-agent AI system
+- [x] RAG
+- [x] AI agents
 
 </td>
 
@@ -398,13 +341,13 @@ Express • MongoDB
 
 ### 🚀 In Progress
 
-* [ ] Master Generative AI
-* [ ] Production AI Deployment
-* [ ] MLOps
-* [ ] Open Source Contributions
-* [ ] 300+ LeetCode Problems
-* [ ] AI/ML Internship
-* [ ] Production AI Engineer
+- [ ] Master Generative AI
+- [ ] Production AI deployment
+- [ ] MLOps
+- [ ] Open source contributions
+- [ ] 300+ LeetCode problems
+- [ ] AI/ML internship
+- [ ] Production AI Engineer
 
 </td>
 
@@ -413,13 +356,11 @@ Express • MongoDB
 
 ---
 
-# 💡 My Development Philosophy
+## 💡 My Development Philosophy
 
 <div align="center">
 
-> ### **"Don't just learn technology. Build with it."**
-
-<br/>
+> ### "Don't just learn technology. Build with it."
 
 📚 **Learn** → 🔨 **Build** → 💥 **Break** → 🐛 **Debug** → ⚡ **Improve** → 🚀 **Deploy** → 🔁 **Repeat**
 
@@ -427,53 +368,27 @@ Express • MongoDB
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always interested in collaborating on:
+I'm open to collaborating on:
 
-<table>
-<tr>
-<td>🤖 AI / ML</td>
-<td>🧠 Generative AI</td>
-<td>🔗 AI Agents</td>
-</tr>
-
-<tr>
-<td>🌐 Full-Stack Development</td>
-<td>🚀 Startup Ideas</td>
-<td>💻 Open Source</td>
-</tr>
-</table>
+**🤖 AI / ML** · **🧠 Generative AI** · **🔗 AI Agents** · **🌐 Full-Stack Development** · **🚀 Startup Ideas** · **💻 Open Source**
 
 <br/>
 
-<a href="https://github.com/rickchoudhary115">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://github.com/rickchoudhary115"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/anirban-choudhury-147121325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7B2FF7,100:00D9FF&section=footer&text=Keep%20Building.%20Keep%20Learning.%20Keep%20Shipping.&fontColor=ffffff&fontSize=20&fontAlignY=65" alt="Footer" width="100%"/>
 
 <div align="center">
 
-### 💻 Keep Building. Keep Learning. Keep Shipping. 🚀
+<img src="https://raw.githubusercontent.com/rickchoudhary115/MULTIAGENT_AI_SYSTEM/main/frontend/src/assets/kivo-raccoon.svg" width="55" alt="Kivo AI Raccoon Logo"/>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=rickchoudhary115&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<br/><br/>
-
-<img
-  src="https://raw.githubusercontent.com/rickchoudhary115/MULTIAGENT_AI_SYSTEM/main/frontend/src/assets/kivo-raccoon.svg"
-  width="65"
-  alt="Kivo AI Raccoon Logo" />
-
-### Kivo AI
-
-**Created & Developed with ❤️ by Anirban Choudhury**
+**Created & developed with ❤️ by Anirban Choudhury**
 
 </div>
