@@ -4,7 +4,11 @@
 
 ### 🤖 AI/ML Engineer • Full-Stack Developer • GenAI Enthusiast
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding animation"/>
+ <img 
+    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+    width="320"
+    alt="Developer coding animation"
+  />
 
 <br/>
 
